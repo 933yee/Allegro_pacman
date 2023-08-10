@@ -1,0 +1,54 @@
+﻿  scene_gameover.c
+c1 : fatal error C1083: 無法開啟來源檔案: '..\..\..\123\Allegro_pacman\Allegro_pacman\Src\scene_gameover.c': No such file or directory
+  rank.c
+c1 : fatal error C1083: 無法開啟來源檔案: '..\..\..\Allegro5Template-master\Final_Codes\Src\rank.c': No such file or directory
+  ghost.c
+  ghost_blue_move_script.c
+  ghost_orange_move_script.c
+  ghost_pink_move_script.c
+  ghost_red_move_script.c
+  main.c
+  map.c
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\map.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 巨集重複定義
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\map.c : message : 請參閱 '_CRT_SECURE_NO_WARNINGS' 之前的定義
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\map.c(149,20): warning C4133: '函式': 不相容的類型 - 從 'FILE *' 至 'const char *'
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\map.c(155,21): warning C4133: '函式': 不相容的類型 - 從 'FILE *' 至 'const char *'
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\map.c(230,23): warning C4090: '函式': 不同的 'const' 限定詞
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\map.c(236,22): warning C4090: '函式': 不同的 'const' 限定詞
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\map.c(240,16): warning C4090: '函式': 不同的 'const' 限定詞
+  mappp.c
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\mappp.c(156,26): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\mappp.c(157,20): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\mappp.c(158,26): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\mappp.c(161,38): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr_mouse' 的參數清單不同
+  pacman_obj.c
+  game.c
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\game.c(6,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 巨集重複定義
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\game.c : message : 請參閱 '_CRT_SECURE_NO_WARNINGS' 之前的定義
+  scene_game.c
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\scene_game.c(102,52): warning C4047: '=': 'Ghost **' 與 'Ghost *' 間接取值的層級不同
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\scene_game.c(326,20): warning C4477: 'sprintf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'int64_t'
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\scene_game.c(326,20): message : 請考慮在格式字串中使用 '%lld'
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\scene_game.c(326,20): message : 請考慮在格式字串中使用 '%Id'
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\scene_game.c(326,20): message : 請考慮在格式字串中使用 '%I64d'
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\scene_game.c(574,38): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr_mouse' 的參數清單不同
+  scene_menu.c
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\scene_menu.c(173,26): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\scene_menu.c(174,20): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\scene_menu.c(175,26): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\scene_menu.c(181,38): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr_mouse' 的參數清單不同
+  scene_menu_object.c
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\scene_menu_object.c(1,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 巨集重複定義
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\scene_menu_object.c : message : 請參閱 '_CRT_SECURE_NO_WARNINGS' 之前的定義
+  scene_settings.c
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\scene_settings.c(474,26): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\scene_settings.c(476,26): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\scene_settings.c(479,38): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr_mouse' 的參數清單不同
+  shared.c
+  utility.c
+  win.c
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\win.c(85,26): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\win.c(86,20): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\win.c(87,26): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr' 的參數清單不同
+C:\Users\88693\Desktop\大一上\pacman\Allegro_pacman\Allegro_pacman\Src\win.c(90,38): warning C4113: 'void (__cdecl *)()' 與來自 'func_ptr_mouse' 的參數清單不同
+  正在產生程式碼...

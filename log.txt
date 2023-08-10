@@ -1,0 +1,574 @@
+There are total 16 supported mouse buttons
+Allegro5 initialized
+Game begin
+loaded font: Assets/Minecraft.ttf with size 30
+loaded font: Assets/OpenSans-Regular.ttf with size 40
+loaded font: Assets/Minecraft.ttf with size 40
+loaded font: Assets/Minecraft.ttf with size 37
+loaded audio: Assets/Music/original_theme.ogg
+loaded audio: Assets/Music/pacman_intermission.ogg
+loaded audio: Assets/Music/pacman-chomp.ogg
+loaded audio: Assets/Music/game_bgm.mp3
+loaded audio: Assets/Music/pacman_eatghost.ogg
+loaded audio: Assets/Music/pointsound.mp3
+loaded audio: Assets/Music/win.mp3
+loaded audio: Assets/Music/pacman_death.ogg
+loaded audio: Assets/Music/undertale.ogg
+Game initialized
+Menu scene created
+Change scene from (unnamed) to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/rank.png
+loaded image: Assets/rank2.png
+loaded image: Assets/map.png
+loaded image: Assets/map2.png
+loaded image: Assets/question_mark.png
+loaded image: Assets/question_mark2.png
+loaded image: Assets/square.png
+loaded image: Assets/square.png
+loaded image: Assets/title.png
+Game start event loop
+Settings scene created
+Change scene from Menu to Settings
+loaded image: Assets/black.png
+loaded image: Assets/black.png
+loaded image: Assets/back.png
+loaded image: Assets/back2.png
+loaded image: Assets/setting.png
+loaded image: Assets/setting.png
+loaded image: Assets/setting/0%.png
+loaded image: Assets/setting/0%.png
+loaded image: Assets/setting/5%.png
+loaded image: Assets/setting/5%.png
+loaded image: Assets/setting/10%.png
+loaded image: Assets/setting/10%.png
+loaded image: Assets/setting/15%.png
+loaded image: Assets/setting/15%.png
+loaded image: Assets/setting/20%.png
+loaded image: Assets/setting/20%.png
+loaded image: Assets/setting/25%.png
+loaded image: Assets/setting/25%.png
+loaded image: Assets/setting/30%.png
+loaded image: Assets/setting/30%.png
+loaded image: Assets/setting/35%.png
+loaded image: Assets/setting/35%.png
+loaded image: Assets/setting/40%.png
+loaded image: Assets/setting/40%.png
+loaded image: Assets/setting/45%.png
+loaded image: Assets/setting/45%.png
+loaded image: Assets/setting/50%.png
+loaded image: Assets/setting/50%.png
+loaded image: Assets/setting/55%.png
+loaded image: Assets/setting/55%.png
+loaded image: Assets/setting/60%.png
+loaded image: Assets/setting/60%.png
+loaded image: Assets/setting/65%.png
+loaded image: Assets/setting/65%.png
+loaded image: Assets/setting/70%.png
+loaded image: Assets/setting/70%.png
+loaded image: Assets/setting/75%.png
+loaded image: Assets/setting/75%.png
+loaded image: Assets/setting/80%.png
+loaded image: Assets/setting/80%.png
+loaded image: Assets/setting/85%.png
+loaded image: Assets/setting/85%.png
+loaded image: Assets/setting/90%.png
+loaded image: Assets/setting/90%.png
+loaded image: Assets/setting/95%.png
+loaded image: Assets/setting/95%.png
+loaded image: Assets/setting/100%.png
+loaded image: Assets/setting/100%.png
+loaded image: Assets/setting/0%.png
+loaded image: Assets/setting/0%.png
+loaded image: Assets/setting/5%.png
+loaded image: Assets/setting/5%.png
+loaded image: Assets/setting/10%.png
+loaded image: Assets/setting/10%.png
+loaded image: Assets/setting/15%.png
+loaded image: Assets/setting/15%.png
+loaded image: Assets/setting/20%.png
+loaded image: Assets/setting/20%.png
+loaded image: Assets/setting/25%.png
+loaded image: Assets/setting/25%.png
+loaded image: Assets/setting/30%.png
+loaded image: Assets/setting/30%.png
+loaded image: Assets/setting/35%.png
+loaded image: Assets/setting/35%.png
+loaded image: Assets/setting/40%.png
+loaded image: Assets/setting/40%.png
+loaded image: Assets/setting/45%.png
+loaded image: Assets/setting/45%.png
+loaded image: Assets/setting/50%.png
+loaded image: Assets/setting/50%.png
+loaded image: Assets/setting/55%.png
+loaded image: Assets/setting/55%.png
+loaded image: Assets/setting/60%.png
+loaded image: Assets/setting/60%.png
+loaded image: Assets/setting/65%.png
+loaded image: Assets/setting/65%.png
+loaded image: Assets/setting/70%.png
+loaded image: Assets/setting/70%.png
+loaded image: Assets/setting/75%.png
+loaded image: Assets/setting/75%.png
+loaded image: Assets/setting/80%.png
+loaded image: Assets/setting/80%.png
+loaded image: Assets/setting/85%.png
+loaded image: Assets/setting/85%.png
+loaded image: Assets/setting/90%.png
+loaded image: Assets/setting/90%.png
+loaded image: Assets/setting/95%.png
+loaded image: Assets/setting/95%.png
+loaded image: Assets/setting/100%.png
+loaded image: Assets/setting/100%.png
+loaded image: Assets/sound.png
+loaded image: Assets/sound.png
+loaded image: Assets/effect.png
+loaded image: Assets/effect.png
+loaded image: Assets/white.png
+loaded image: Assets/white2.png
+loaded image: Assets/white.png
+loaded image: Assets/white2.png
+loaded image: Assets/white3.png
+loaded image: Assets/white3.png
+loaded image: Assets/white3.png
+loaded image: Assets/white3.png
+key sound clicked (on)
+Key with keycode 82 down
+Key with keycode 83 down
+Key with keycode 4 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 1 down
+Menu scene created
+Change scene from Settings to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/rank.png
+loaded image: Assets/rank2.png
+loaded image: Assets/map.png
+loaded image: Assets/map2.png
+loaded image: Assets/question_mark.png
+loaded image: Assets/question_mark2.png
+loaded image: Assets/square.png
+loaded image: Assets/square.png
+loaded image: Assets/title.png
+keysound and keyeffect(off)
+rank scene created
+Change scene from Menu to Menu
+loaded image: Assets/back.png
+loaded image: Assets/back2.png
+loaded image: Assets/background.png
+loaded image: Assets/background.png
+loaded image: Assets/reset.png
+loaded image: Assets/reset2.png
+loaded image: Assets/topten.png
+loaded image: Assets/topten.png
+Menu scene created
+Change scene from Menu to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/rank.png
+loaded image: Assets/rank2.png
+loaded image: Assets/map.png
+loaded image: Assets/map2.png
+loaded image: Assets/question_mark.png
+loaded image: Assets/question_mark2.png
+loaded image: Assets/square.png
+loaded image: Assets/square.png
+loaded image: Assets/title.png
+Settings scene created
+Change scene from Menu to Settings
+loaded image: Assets/black.png
+loaded image: Assets/black.png
+loaded image: Assets/back.png
+loaded image: Assets/back2.png
+loaded image: Assets/setting.png
+loaded image: Assets/setting.png
+loaded image: Assets/setting/0%.png
+loaded image: Assets/setting/0%.png
+loaded image: Assets/setting/5%.png
+loaded image: Assets/setting/5%.png
+loaded image: Assets/setting/10%.png
+loaded image: Assets/setting/10%.png
+loaded image: Assets/setting/15%.png
+loaded image: Assets/setting/15%.png
+loaded image: Assets/setting/20%.png
+loaded image: Assets/setting/20%.png
+loaded image: Assets/setting/25%.png
+loaded image: Assets/setting/25%.png
+loaded image: Assets/setting/30%.png
+loaded image: Assets/setting/30%.png
+loaded image: Assets/setting/35%.png
+loaded image: Assets/setting/35%.png
+loaded image: Assets/setting/40%.png
+loaded image: Assets/setting/40%.png
+loaded image: Assets/setting/45%.png
+loaded image: Assets/setting/45%.png
+loaded image: Assets/setting/50%.png
+loaded image: Assets/setting/50%.png
+loaded image: Assets/setting/55%.png
+loaded image: Assets/setting/55%.png
+loaded image: Assets/setting/60%.png
+loaded image: Assets/setting/60%.png
+loaded image: Assets/setting/65%.png
+loaded image: Assets/setting/65%.png
+loaded image: Assets/setting/70%.png
+loaded image: Assets/setting/70%.png
+loaded image: Assets/setting/75%.png
+loaded image: Assets/setting/75%.png
+loaded image: Assets/setting/80%.png
+loaded image: Assets/setting/80%.png
+loaded image: Assets/setting/85%.png
+loaded image: Assets/setting/85%.png
+loaded image: Assets/setting/90%.png
+loaded image: Assets/setting/90%.png
+loaded image: Assets/setting/95%.png
+loaded image: Assets/setting/95%.png
+loaded image: Assets/setting/100%.png
+loaded image: Assets/setting/100%.png
+loaded image: Assets/setting/0%.png
+loaded image: Assets/setting/0%.png
+loaded image: Assets/setting/5%.png
+loaded image: Assets/setting/5%.png
+loaded image: Assets/setting/10%.png
+loaded image: Assets/setting/10%.png
+loaded image: Assets/setting/15%.png
+loaded image: Assets/setting/15%.png
+loaded image: Assets/setting/20%.png
+loaded image: Assets/setting/20%.png
+loaded image: Assets/setting/25%.png
+loaded image: Assets/setting/25%.png
+loaded image: Assets/setting/30%.png
+loaded image: Assets/setting/30%.png
+loaded image: Assets/setting/35%.png
+loaded image: Assets/setting/35%.png
+loaded image: Assets/setting/40%.png
+loaded image: Assets/setting/40%.png
+loaded image: Assets/setting/45%.png
+loaded image: Assets/setting/45%.png
+loaded image: Assets/setting/50%.png
+loaded image: Assets/setting/50%.png
+loaded image: Assets/setting/55%.png
+loaded image: Assets/setting/55%.png
+loaded image: Assets/setting/60%.png
+loaded image: Assets/setting/60%.png
+loaded image: Assets/setting/65%.png
+loaded image: Assets/setting/65%.png
+loaded image: Assets/setting/70%.png
+loaded image: Assets/setting/70%.png
+loaded image: Assets/setting/75%.png
+loaded image: Assets/setting/75%.png
+loaded image: Assets/setting/80%.png
+loaded image: Assets/setting/80%.png
+loaded image: Assets/setting/85%.png
+loaded image: Assets/setting/85%.png
+loaded image: Assets/setting/90%.png
+loaded image: Assets/setting/90%.png
+loaded image: Assets/setting/95%.png
+loaded image: Assets/setting/95%.png
+loaded image: Assets/setting/100%.png
+loaded image: Assets/setting/100%.png
+loaded image: Assets/sound.png
+loaded image: Assets/sound.png
+loaded image: Assets/effect.png
+loaded image: Assets/effect.png
+loaded image: Assets/white.png
+loaded image: Assets/white2.png
+loaded image: Assets/white.png
+loaded image: Assets/white2.png
+loaded image: Assets/white3.png
+loaded image: Assets/white3.png
+loaded image: Assets/white3.png
+loaded image: Assets/white3.png
+key sound clicked (on)
+Key with keycode 1 down
+Key with keycode 1 down
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 4 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 4 down
+Key with keycode 1 down
+Menu scene created
+Change scene from Settings to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/rank.png
+loaded image: Assets/rank2.png
+loaded image: Assets/map.png
+loaded image: Assets/map2.png
+loaded image: Assets/question_mark.png
+loaded image: Assets/question_mark2.png
+loaded image: Assets/square.png
+loaded image: Assets/square.png
+loaded image: Assets/title.png
+keysound and keyeffect(off)
+map scene created
+Change scene from Menu to MAP
+loaded image: Assets/back.png
+loaded image: Assets/back2.png
+loaded image: Assets/map0.5.png
+loaded image: Assets/map1.png
+loaded image: Assets/map1.05.png
+loaded image: Assets/map1.1.png
+loaded image: Assets/map1.15.png
+loaded image: Assets/map1.2.png
+Menu scene created
+Change scene from MAP to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/rank.png
+loaded image: Assets/rank2.png
+loaded image: Assets/map.png
+loaded image: Assets/map2.png
+loaded image: Assets/question_mark.png
+loaded image: Assets/question_mark2.png
+loaded image: Assets/square.png
+loaded image: Assets/square.png
+loaded image: Assets/title.png
+Key with keycode 67 down
+Start scene created
+Change scene from Menu to Start
+loaded image: Assets/volume2.png
+loaded image: Assets/volume3.png
+loaded image: Assets/volume.png
+loaded image: Assets/volume1.png
+loaded image: Assets/music1.png
+loaded image: Assets/music2.png
+loaded image: Assets/music3.png
+loaded image: Assets/music4.png
+loaded image: Assets/menu3.png
+loaded image: Assets/menu4.png
+loaded image: Assets/p_choose1.png
+loaded image: Assets/p_choose2.png
+loaded image: Assets/p_choose3.png
+loaded image: Assets/p_choose4.png
+loaded image: Assets/p_choose5.png
+loaded image: Assets/p_choose6.png
+loaded image: Assets/p_choose7.png
+loaded image: Assets/p_choose8.png
+Assets/map_nthu.txt??
+
+success to load map!
+loaded image: Assets/pacman_move.png
+loaded image: Assets/pacman_die.png
+creating ghost 0
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_red.png
+creating ghost 1
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_pink.png
+creating ghost 2
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_orange.png
+creating ghost 3
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_blue.png
+Key with keycode 24 down
+win scene created
+Change scene from Start to Game Over
+loaded image: Assets/win.png
+loaded image: Assets/win.png
+Key with keycode 67 down
+Menu scene created
+Change scene from Game Over to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/rank.png
+loaded image: Assets/rank2.png
+loaded image: Assets/map.png
+loaded image: Assets/map2.png
+loaded image: Assets/question_mark.png
+loaded image: Assets/question_mark2.png
+loaded image: Assets/square.png
+loaded image: Assets/square.png
+loaded image: Assets/title.png
+Key with keycode 67 down
+Start scene created
+Change scene from Menu to Start
+loaded image: Assets/volume2.png
+loaded image: Assets/volume3.png
+loaded image: Assets/volume.png
+loaded image: Assets/volume1.png
+loaded image: Assets/music1.png
+loaded image: Assets/music2.png
+loaded image: Assets/music3.png
+loaded image: Assets/music4.png
+loaded image: Assets/menu3.png
+loaded image: Assets/menu4.png
+loaded image: Assets/p_choose1.png
+loaded image: Assets/p_choose2.png
+loaded image: Assets/p_choose3.png
+loaded image: Assets/p_choose4.png
+loaded image: Assets/p_choose5.png
+loaded image: Assets/p_choose6.png
+loaded image: Assets/p_choose7.png
+loaded image: Assets/p_choose8.png
+Assets/map_nthu.txt??
+
+success to load map!
+loaded image: Assets/pacman_move.png
+loaded image: Assets/pacman_die.png
+creating ghost 0
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_red.png
+creating ghost 1
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_pink.png
+creating ghost 2
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_orange.png
+creating ghost 3
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_blue.png
+loaded image: Assets/pacman_move3.png
+loaded image: Assets/pacman_die3.png
+loaded image: Assets/pacman_move4.png
+loaded image: Assets/pacman_die4.png
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 3 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+ghost dies!
+
+Key with keycode 19 down
+ghost dies!
+
+Key with keycode 4 down
+Key with keycode 23 down
+ghost dies!
+
+Key with keycode 3 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 19 down
+ghost dies!
+
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 1 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 23 down
+Key with keycode 4 down
+Key with keycode 19 down
+Key with keycode 1 down
+collide with ghost
+
+gameover scene created
+Change scene from Start to Game Over
+loaded image: Assets/gameover.png
+loaded image: Assets/gameover.png
+loaded image: Assets/restart1.png
+loaded image: Assets/restart2.png
+loaded image: Assets/menu.png
+loaded image: Assets/menu2.png
+Menu scene created
+Change scene from Game Over to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/rank.png
+loaded image: Assets/rank2.png
+loaded image: Assets/map.png
+loaded image: Assets/map2.png
+loaded image: Assets/question_mark.png
+loaded image: Assets/question_mark2.png
+loaded image: Assets/square.png
+loaded image: Assets/square.png
+loaded image: Assets/title.png
+Window close button clicked
+Game end
